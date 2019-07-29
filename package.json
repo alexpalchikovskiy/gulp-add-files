@@ -1,5 +1,5 @@
 {
-  "name": "gulp-files",
+  "name": "gulp-add-files",
   "version": "1.0.0",
   "description": "Create new files from strings or objects and put it into stream",
   "main": "index.js",

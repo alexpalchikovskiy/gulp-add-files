@@ -1,18 +1,18 @@
-# gulp-files
+# gulp-add-files
 
 Create new files from strings or objects and put it into stream for using gulp pipe
 
 ## Installation
 
 ```sh
-npm i gulp-files --save-dev
+npm i gulp-add-files --save-dev
 ```
 
 ## Usage example
 
 ```javascript
 const gulp = require( 'gulp' );
-const files = require( 'gulp-files' );
+const files = require( 'gulp-add-files' );
 
 gulp.task( 'new-files', function() {
    
