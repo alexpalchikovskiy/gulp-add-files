@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexpalchikovskiy/gulp-files.git"
+    "url": "git+https://github.com/alexpalchikovskiy/gulp-add-files.git"
   },
   "keywords": [
     "gulp",
@@ -23,9 +23,9 @@
   "author": "Alex Palchikovskiy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexpalchikovskiy/gulp-files/issues"
+    "url": "https://github.com/alexpalchikovskiy/gulp-add-files/issues"
   },
-  "homepage": "https://github.com/alexpalchikovskiy/gulp-files#readme",
+  "homepage": "https://github.com/alexpalchikovskiy/gulp-add-files#readme",
   "dependencies": {
     "through2": "^3.0.1",
     "vinyl": "^2.2.0"
